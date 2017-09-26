@@ -1,12 +1,11 @@
 {
-  "private": true,
-  "name": "ovrui",
+  "name": "@vrgmetri/ovrui",
   "version": "1.3.0",
   "description": "UI toolkit for building WebVR applications",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/react-vr.git"
+    "url": "https://github.com/vrgmetri/react-vr.git"
   },
   "bugs": "https://github.com/facebook/react-vr/issues",
   "files": [

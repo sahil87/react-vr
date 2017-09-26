@@ -52,7 +52,7 @@ function buildPackage(name, dir) {
         if (code !== 0) {
           reject(code);
         }
-        resolve(path.resolve(dir, `${name}-${version}.tgz`));
+        resolve(path.resolve(dir, `vrgmetri-${name}-${version}.tgz`));
       });
     });
   });

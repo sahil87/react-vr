@@ -1,12 +1,11 @@
 {
-  "private": true,
-  "name": "react-vr",
+  "name": "@vrgmetri/react-vr",
   "version": "1.3.0",
   "description": "A framework for building VR applications with React",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/react-vr.git"
+    "url": "https://github.com/vrgmetri/react-vr.git"
   },
   "bugs": "https://github.com/facebook/react-vr/issues",
   "main": "Libraries/react-vr.js",
@@ -55,6 +54,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.6.0",
+    "npm": "^4.6.1",
     "prop-types": "^15.5.10"
   }
 }

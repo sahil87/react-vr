@@ -5,3 +5,4 @@ node_modules
 *.log
 EndToEnd/testapp/build
 package_builds
+.idea/
